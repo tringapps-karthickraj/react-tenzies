@@ -2,9 +2,7 @@ import React from "react";
 import Die from "./die";
 import {nanoid} from "nanoid";
 import '../assets/die.css';
-import {Dialog,DialogActions,DialogContent,DialogContentText,DialogTitle} from '@mui/material';
-import {Button} from '@mui/material';
-//import CloseIcon from '@mui/icons-material/Close';
+import {Dialog,DialogActions,DialogContent,DialogContentText,DialogTitle,Button} from '@mui/material';
 
 export default function Layout() {
 
